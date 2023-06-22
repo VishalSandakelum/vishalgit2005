@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Sandakelum</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+#example
 
 <img align="center" alt = "coding" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -8,7 +9,7 @@
 <h1 align="center"></h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalgit2005" alt="vishalgit2005" /></a> </p>
 
-- 🌱 I’m currently learning *Java,Spring Boot,Machine Learning*
+- 🌱 I’m currently learning **Java,Spring Boot,Machine Learning*
 
 - 👨‍💻 All of my projects are available at [http://vishalsandakelum.great-site.net/](http://vishalsandakelum.great-site.net/)
 
